@@ -1,0 +1,6 @@
+{
+  "name": "Radar de Licitações Pro",
+  "description": "Plataforma de inteligência comercial e CRM para acompanhamento e análise de licitações públicas com sincronização de portais em banco de dados local veloz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
